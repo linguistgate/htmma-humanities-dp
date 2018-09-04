@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://matthew-edward-adams.org//sitemap.xml
+Sitemap: http://www.matthew-edward-adams.org//sitemap.xml
