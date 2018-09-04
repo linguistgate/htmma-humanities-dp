@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://linguistgate.gitlab.io//sitemap.xml
