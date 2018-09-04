@@ -3,43 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//matthew-edward-adams.org/htmma-humanities-dp/syllabus/</loc>
+    <loc>http://matthew-edward-adams.org/syllabus/</loc>
     <lastmod>2018-09-03T16:14:59-07:00</lastmod>
   </url>
   
   <url>
-    <loc>//matthew-edward-adams.org/htmma-humanities-dp/projects/</loc>
+    <loc>http://matthew-edward-adams.org/projects/</loc>
     <lastmod>2018-09-03T16:14:28-07:00</lastmod>
   </url>
   
   <url>
-    <loc>//matthew-edward-adams.org/htmma-humanities-dp/resources/</loc>
+    <loc>http://matthew-edward-adams.org/resources/</loc>
     <lastmod>2018-09-03T16:11:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>//matthew-edward-adams.org/htmma-humanities-dp/authors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//matthew-edward-adams.org/htmma-humanities-dp/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//matthew-edward-adams.org/htmma-humanities-dp/</loc>
+    <loc>http://matthew-edward-adams.org/</loc>
     <lastmod>2018-09-03T16:14:59-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//matthew-edward-adams.org/htmma-humanities-dp/series/</loc>
+    <loc>http://matthew-edward-adams.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//matthew-edward-adams.org/htmma-humanities-dp/tags/</loc>
+    <loc>http://matthew-edward-adams.org/tags/</loc>
     <priority>0</priority>
   </url>
   
