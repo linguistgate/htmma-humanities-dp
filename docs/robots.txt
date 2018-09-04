@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://linguistgate.gitlab.io//sitemap.xml
+Sitemap: http://matthew-edward-adams.org//sitemap.xml
