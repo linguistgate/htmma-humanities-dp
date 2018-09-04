@@ -1,4 +1,4 @@
-baseurl = "https://linguistgate.gitlab.io/"
+baseurl = "https://.gitlab.io/"
 title = "Humanities with Mr. Matt"
 theme = "dimension"
 languageCode = "en-us"
