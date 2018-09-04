@@ -2,6 +2,7 @@ baseURL = "//matthew-edward-adams.org/htmma-humanities-dp/"
 title = "Minimo"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
+publishDir = "docs"
 
 theme = "minimo"
 
